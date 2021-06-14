@@ -24,7 +24,7 @@ role: Medical Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:Ryan.Steppe@bcm.edu
 - display:
     header: false
   icon: twitter
