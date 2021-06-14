@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+# Making inactive for now
+active: false
+
 # This file represents a page section.
 headless: true
 
