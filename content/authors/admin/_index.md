@@ -26,20 +26,20 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: false
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
+  label: Twitter
   link: https://twitter.com/rjsteppe
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: graduation-cap
+# icon_pack: fas
+# link: https://scholar.google.co.uk/citations?user
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rjsteppe
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/rjsteppe
 superuser: true
 title: Ryan Steppe
 ---
