@@ -47,3 +47,4 @@ title: Ryan Steppe
 I'm Ryan. I'm a first-year medical student at the Baylor College of Medicine.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}. -->
+
