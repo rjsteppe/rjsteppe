@@ -14,9 +14,12 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Healthcare
+- Public Health
 - Data Analytics
 - Health Services Research
+- Value-Based Payment
+- Quality Improvement
+- Health Policy
 organizations:
 - name: Baylor College of Medicine
   url: https://www.bcm.edu/
@@ -34,9 +37,9 @@ social:
 # - icon: graduation-cap
 # icon_pack: fas
 # link: https://scholar.google.co.uk/citations?user
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rjsteppe
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/rjsteppe
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rjsteppe
@@ -44,7 +47,7 @@ superuser: true
 title: Ryan Steppe
 ---
 
-I'm Ryan. I'm a first-year medical student at the Baylor College of Medicine.
+I'm Ryan. I'm a first-year medical student at the Baylor College of Medicine. I still need to write the rest of this bio.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}. -->
 
