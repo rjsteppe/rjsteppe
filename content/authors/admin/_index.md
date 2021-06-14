@@ -25,12 +25,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:Ryan.Steppe@bcm.edu
-- display:
-    header: false
-  icon: twitter
-  icon_pack: fab
-  label: Twitter
-  link: https://twitter.com/rjsteppe
+# - display:
+#     header: false
+#   icon: twitter
+#   icon_pack: fab
+#   label: Twitter
+#   link: https://twitter.com/rjsteppe
 # - icon: graduation-cap
 # icon_pack: fas
 # link: https://scholar.google.co.uk/citations?user
@@ -44,6 +44,6 @@ superuser: true
 title: Ryan Steppe
 ---
 
-Howdy! I'm Ryan. I'm a first-year medical student at the Baylor College of Medicine.
+I'm Ryan. I'm a first-year medical student at the Baylor College of Medicine.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}. -->
